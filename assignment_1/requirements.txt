@@ -1,0 +1,6 @@
+python-dotenv
+langchain>=0.1.14
+langchain-community>=0.0.28
+langfuse>=2.14.1
+openai>=1.30.1
+pydantic>=1.10.13,<2.0.0  # LangChain uses Pydantic v1.x for OutputParser
