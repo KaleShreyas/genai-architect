@@ -197,3 +197,5 @@ cython_debug/
 *.pdf
 *.sqlite3
 RAG/
+chroma_kb_store/
+.DS_Store
