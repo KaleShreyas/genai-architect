@@ -194,4 +194,6 @@ cython_debug/
 .cursorindexingignore
 
 # Custom files
-.pdf
+*.pdf
+*.sqlite3
+RAG/
